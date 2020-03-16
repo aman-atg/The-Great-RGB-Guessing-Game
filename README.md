@@ -16,7 +16,7 @@ Or Download and extract the zip file.
 
 ### Running
 
-1. Click on index.html file
+1. Double-Click on index.html file or Open it with your favourite browser.
 
 ## Built With
 
