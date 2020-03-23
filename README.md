@@ -2,6 +2,8 @@
 
 I developed this project as a part of Udemy's Course :- The Web Developer Bootcamp by Colt Steele. However, two or three functions are optimised by myself.
 
+![RGB_Game](./ColorGame.png)
+
 ## Getting Started
 
 Start by cloning the repo : 
